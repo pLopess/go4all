@@ -2,6 +2,8 @@
 
 > **Plataforma Full Stack de apostas em grupo, governança democrática de banca, previsões em tempo real e leitura automatizada de bilhetes com Inteligência Artificial Multimodal.**
 
+🌐 **Aplicação em Produção:** [https://go4all.vercel.app](https://go4all.vercel.app)
+
 ---
 
 ## 📌 Visão Geral do Projeto
