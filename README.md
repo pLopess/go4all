@@ -1,4 +1,4 @@
-# ⚽ GO4ALL — Bolão Democrático & Gestão de Apostas Coletivas
+# ⚽ GO4ALL — Bolão de Amigos
 
 > **Plataforma Full Stack de apostas em grupo, governança democrática de banca, previsões em tempo real e leitura automatizada de bilhetes com Inteligência Artificial Multimodal.**
 
