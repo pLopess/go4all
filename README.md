@@ -2,7 +2,18 @@
 
 > **Plataforma Full Stack de apostas em grupo, governança democrática de banca, previsões em tempo real e leitura automatizada de bilhetes com Inteligência Artificial Multimodal.**
 
-🌐 **Aplicação em Produção:** [https://go4all.vercel.app](https://go4all.vercel.app)
+> ℹ️ **Status do Projeto:** Desenvolvido e utilizado ativamente durante a Copa do Mundo de 2026. Com o término do torneio e o encerramento da grade de jogos na API esportiva, o deploy público foi pausado. O repositório permanece como **estudo de caso completo de arquitetura Full Stack, integração de IA Multimodal e engenharia de software**.
+
+---
+
+## 📸 Demonstração Visual (Aplicação em Operação na Copa 2026)
+
+Abaixo estão registros reais da interface da aplicação durante o torneio, destacando a governança democrática e o módulo de consultoria analítica:
+
+| Mesa de Votação & Quorum | Gestão de Banca & Consultoria IA |
+| :---: | :---: |
+| ![Mesa de Votação](docs/screenshots/mesa-votacao.png) | ![Gestão de Banca](docs/screenshots/gestao-banca.png) |
+| *Mesa de apostas com quorum de membros, cálculo de retorno e aprovação democrática* | *Extrato em tempo real, saldo consolidado e agente consultor com recomendações* |
 
 ---
 
